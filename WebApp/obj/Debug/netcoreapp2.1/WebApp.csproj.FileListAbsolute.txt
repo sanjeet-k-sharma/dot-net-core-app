@@ -5,7 +5,6 @@
 /Users/sanjeet/Projects/WebApp/WebApp/bin/Debug/netcoreapp2.1/WebApp.pdb
 /Users/sanjeet/Projects/WebApp/WebApp/bin/Debug/netcoreapp2.1/WebApp.Views.dll
 /Users/sanjeet/Projects/WebApp/WebApp/bin/Debug/netcoreapp2.1/WebApp.Views.pdb
-/Users/sanjeet/Projects/WebApp/WebApp/obj/Debug/netcoreapp2.1/WebApp.csprojAssemblyReference.cache
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Debug/netcoreapp2.1/WebApp.csproj.CoreCompileInputs.cache
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Debug/netcoreapp2.1/WebApp.RazorAssemblyInfo.cache
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Debug/netcoreapp2.1/WebApp.RazorAssemblyInfo.cs
