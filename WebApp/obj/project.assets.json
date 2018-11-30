@@ -11552,6 +11552,7 @@
         "netcoreapp2.1"
       ],
       "sources": {
+        "http://10.224.4.10:8111/guestAuth/app/nuget/feed/DotNetCoreAppDevelop/default/v2": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11571,17 +11572,17 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.1"
-          },
-          "OctoPack": {
-            "target": "Package",
-            "version": "3.6.3"
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "OctoPack": {
+            "target": "Package",
+            "version": "[3.6.3, )"
           }
         },
         "imports": [
