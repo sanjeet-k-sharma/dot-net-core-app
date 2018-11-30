@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "8d19439ef22c432fe18f0eac697c8789fe30c00a"
+    "signature": "732628bf68fa493cf2250b4690f6fc01fdb95d1e"
   },
   "compilationOptions": {
     "defines": [
@@ -25,7 +25,8 @@
       "WebApp/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
-          "Microsoft.NETCore.App": "2.1.0"
+          "Microsoft.NETCore.App": "2.1.0",
+          "OctoPack": "3.6.3"
         },
         "runtime": {
           "WebApp.dll": {}
@@ -205,6 +206,7 @@
           "Microsoft.NETCore.Platforms": "2.1.0"
         }
       },
+      "OctoPack/3.6.3": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3204,6 +3206,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "OctoPack/3.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TkUKVqkhjOM2ubUIVibgkwDMz+1bpAr81zmr6Or8ZlXX2X7Hh8lkhjK0EbD6tuiuT9M+4SCM7C7uFJRr3l9m9w==",
+      "path": "octopack/3.6.3",
+      "hashPath": "octopack.3.6.3.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
