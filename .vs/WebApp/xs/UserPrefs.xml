@@ -1,8 +1,18 @@
 ﻿<Properties StartupConfiguration="{1EE71E79-48D9-472D-968A-B6B8611E5190}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/Views/Home/About.cshtml">
+    <Files>
+      <File FileName="WebApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebApp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="WebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="WebApp/Startup.cs" Line="1" Column="1" />
+      <File FileName="WebApp/Views/Home/About.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
