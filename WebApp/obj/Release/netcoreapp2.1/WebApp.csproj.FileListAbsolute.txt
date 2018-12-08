@@ -29,3 +29,4 @@
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Release/netcoreapp2.1/WebApp.dll
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Release/netcoreapp2.1/WebApp.pdb
 /Users/sanjeet/Projects/WebApp/WebApp/obj/Release/netcoreapp2.1/WebApp.csproj.CopyComplete
+/Users/sanjeet/Projects/WebApp/WebApp/obj/Release/netcoreapp2.1/WebApp.csprojAssemblyReference.cache
